@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+rhino /home/fdmanana/bin/jslint.js $@
